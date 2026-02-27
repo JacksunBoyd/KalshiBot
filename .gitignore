@@ -1,0 +1,21 @@
+# Credentials — never commit these
+.env
+kalshi.pem
+*.pem
+*.key
+
+# Session data files
+sessions/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.mypy_cache/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+LOB
