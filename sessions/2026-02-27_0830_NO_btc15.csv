@@ -1,0 +1,8 @@
+﻿# Session: Friday 2/27/2026 8:30-8:45 AM BTC 15 Minute
+# Side: NO
+# Rules: Entry ≤40¢  |  Take Profit ≥45¢  |  Stop Loss ≤10¢
+# Ticker: KXBTC15M-26FEB270845-45
+time,session,ticker,bid,ask,spread,mid,bid_qty,ask_qty,last,btc,strike,delta,chg_pct,evt
+11:50:33,200:33,KXBTC15M-26FEB270845-45,—,—,—,—,0,0,—,66001.01,—,—,—,
+11:50:34,5:34,ask never reached ≤40,—,—,—,—,—,—,—,—,—,—,—,NO TRIG
+11:50:34,,▶ ROLL → KXBTC15M-26FEB271200-00,,,,,,,,,,,,

@@ -4,9 +4,6 @@ kalshi.pem
 *.pem
 *.key
 
-# Session data files
-sessions/
-
 # Python cache
 __pycache__/
 *.py[cod]
